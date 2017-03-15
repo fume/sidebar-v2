@@ -14,7 +14,7 @@ $tab-hover-bg: ($tabs-bg * 9 + $tab-active-bg) / 10 !default;
 
 @import 'base';
 
-.sidebar {
+.map-sidebar {
     border-right: $sidebar-border;
     box-shadow: $sidebar-shadow;
 
