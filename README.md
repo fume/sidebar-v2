@@ -40,3 +40,5 @@ Example code at [`examples/gmaps.html`](examples/gmaps.html) ([Preview](http://t
 ## License
 
 sidebar-v2 is free software, and may be redistributed under the [MIT license](LICENSE).
+
+pippo pazzo
